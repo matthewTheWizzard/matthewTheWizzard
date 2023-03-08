@@ -1,4 +1,4 @@
-<div styles="width: 100%; margin: auto">
+<div style="width: 100%; margin: auto">
 <div id="badges">
   <a href="www.linkedin.com/in/matthewTheWizzard">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
