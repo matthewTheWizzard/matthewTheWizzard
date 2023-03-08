@@ -42,4 +42,4 @@ Aside from my technical skills, I'm also a strong believer in the importance of 
 - Russian [Native]
 - English [C1/C2]
 </br>
-<img src="./english.jpg" title="english" **alt="english" width="100" height="100"  />
+<img src="./english.jpg" title="english" **alt="english" width="250" />
